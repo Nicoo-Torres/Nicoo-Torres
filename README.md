@@ -35,7 +35,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 ## 🖥️ My tech stacks :
 
 <div>
-  <h3>Languages</h3>
+  <h3>Languajes</h3>
   <table>
     <tr>
       <td width="96" align="center">
@@ -59,19 +59,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     </tr>
   </table>
 
-  <h3>Operating Systems</h3>
-  <table>
-    <tr>
-      <td width="96" align="center">
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
-        </a>
-        <p>Windows</p>
-      </td>
-    </tr>
-  </table>
-
-  <h3>Other Tools</h3>
+   <h3>Other Tools</h3>
   <table>
     <tr>
       <td width="96" align="center">
