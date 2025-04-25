@@ -33,21 +33,28 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   </ul>
 </p>
 ## 🖥️ My tech stacks :
+
 <div>
   <h3>Languages</h3>
   <table>
     <tr>
-      <td width="96" style="text-align: center;">
+      <td width="96" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
         </a>
         <p>HTML5</p>
       </td>
-      <td width="96" style="text-align: center;">
+      <td width="96" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
         </a>
         <p>CSS3</p>
+      </td>
+      <td width="96" align="center">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        </a>
+        <p>C</p>
       </td>
     </tr>
   </table>
@@ -55,7 +62,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <h3>Operating Systems</h3>
   <table>
     <tr>
-      <td width="96" style="text-align: center;">
+      <td width="96" align="center">
         <a href="https://www.microsoft.com/en-us/windows" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
         </a>
@@ -67,13 +74,13 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <h3>Other Tools</h3>
   <table>
     <tr>
-      <td width="96" style="text-align: center;">
+      <td width="96" align="center">
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         </a>
         <p>Git</p>
       </td>
-      <td width="96" style="text-align: center;">
+      <td width="96" align="center">
         <a href="https://code.visualstudio.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
         </a>
@@ -82,6 +89,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     </tr>
   </table>
 </div>
+
 
 ## Contactame <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
