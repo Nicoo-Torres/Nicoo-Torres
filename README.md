@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c," />
-  </a>
-</p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
-<p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍🔧 I'm an <b>IT engineer</b></li>
@@ -59,7 +51,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     </tr>
   </table>
 
-   <h3>Other Tools</h3>
+   <h3>Otros Lenguajes</h3>
   <table>
     <tr>
       <td width="96" align="center">
