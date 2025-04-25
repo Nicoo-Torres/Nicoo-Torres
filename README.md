@@ -51,25 +51,55 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     </tr>
   </table>
 
-   <h3>Otros Lenguajes</h3>
-  <table>
-    <tr>
-      <td width="96" align="center">
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        </a>
-        <p>Git</p>
-      </td>
-      <td width="96" align="center">
-        <a href="https://code.visualstudio.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
-        </a>
-        <p>VS Code</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<h3>Otras herramientas</h3>
+<table>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <p>Git</p>
+    </td>
+    <td width="96" align="center">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <p>Arduino</p>
+    </td>
+    <td width="96" align="center">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <p>GitHub</p>
+    </td>
+    <td width="96" align="center">
+      <a href="https://www.markdownguide.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
+      </a>
+      <p>Markdown</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <p>Visual Studio</p>
+    </td>
+    <td width="96" align="center">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <p>VS Code</p>
+    </td>
+    <td width="96" align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <p>SQL Server</p>
+    </td>
+  </tr>
+</table>
 
 ## Contactame <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
