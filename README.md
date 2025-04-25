@@ -1,30 +1,13 @@
-## Hi there 👋
+<h1>¡Hola, soy Nico! 👋</h1>
 
-
-**Nicoo-Torres/Nicoo-Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Hi, nice to meet you. Let me introduce my profile in a few lines.
-  <ul>
-    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
-    <li>📍 Based near <b>Geneva</b></li>
-    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
-    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
-    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
-    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
-  </ul>
-</p>
-## 🖥️ My tech stacks :
+<p>¡Te doy la bienvenida a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software, comprometido con la creación de soluciones innovadoras y eficientes.</p>
+<ul>
+  <li>👨‍🔧 Soy un <b>estudiante de desarrollo de software</b> (en 3er año de la carrera)</li>
+  <li>📍 Ubicación: La Matanza, Zona Oeste del Gran Buenos Aires (GBA)</li>
+  <li>🌱 Actualmente estoy aprendiendo <b>Certificación Cisco</b> y <b>Python</b></li>
+  <li>📮 Contacto: <b>nicolas.andres.torres1@gmail.com</b></li>
+</ul>
+🖥️ Mis stacks tecnológicos :
 
 <div>
   <h3>Languajes</h3>
