@@ -1,6 +1,7 @@
 <h1>¡Hola, soy Nico! 👋</h1>
 
 <p>¡Te doy la bienvenida a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software, comprometido con la creación de soluciones innovadoras y eficientes.</p>
+👨‍💻 Sobre mí
 <ul>
   <li>👨‍🔧 Soy un <b>estudiante de desarrollo de software</b> (en 3er año de la carrera)</li>
   <li>📍 Ubicación: La Matanza, Zona Oeste del Gran Buenos Aires (GBA)</li>
