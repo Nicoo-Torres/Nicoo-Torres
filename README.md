@@ -1,4 +1,4 @@
-<h1>¡Hola, soy Nico! 👋</h1>
+<h1>¡Hola! 👋</h1>
 
 <p>¡Te doy la bienvenida a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software, comprometido con la creación de soluciones innovadoras y eficientes.</p>
 
