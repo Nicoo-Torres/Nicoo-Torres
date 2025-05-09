@@ -1,6 +1,6 @@
 <h1>¡Hola! 👋</h1>
 
-<p>¡Te doy la bienvenida a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software, comprometido con la creación de soluciones innovadoras y eficientes.</p>
+<p>¡Te doy la bienvenida a mi perfil de GitHub! Me interesa la tecnología y el desarrollo de software como herramientas para crecer profesionalmente y aportar soluciones prácticas.</p>
 
 <p>👨‍💻 Sobre mí</p>
 
